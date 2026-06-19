@@ -37,7 +37,6 @@ print("✅ fraud_labels table loaded — 20,000 rows")
 print("Database: upi_intelligence is ready for SQL analysis")
 
 
-# ── Step 4: Verify tables loaded correctly ──
 from sqlalchemy import text
 
 with engine.connect() as conn:
