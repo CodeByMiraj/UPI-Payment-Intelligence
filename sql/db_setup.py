@@ -8,7 +8,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # ── Step 1: Create connection to PostgreSQL ──
-engine = create_engine('postgresql://postgres:18796@localhost:5432/upi_intelligence')
+engine = create_engine('postgresql://postgres:YOUR_PASSWORD@localhost:5432/upi_intelligence')
 
 with engine.connect() as conn:
         print("Connected to PostgreSQL successfully")
