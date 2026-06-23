@@ -2,14 +2,14 @@
 
 ## Project Overview
 A multi-table payment intelligence system built in PostgreSQL to analyze 
-fraud patterns, merchant performance, and user behaviour across India's 
+fraud patterns, merchant performance, and user behavior across India's 
 UPI ecosystem. Built to solve real fintech business problems using 
 20,000 transactions across 4 relational tables.
 
 ## Business Questions Solved
 1. What is the fraud profile across city tiers, devices, and payment apps?
 2. Which merchant categories drive highest transaction volume and value?
-3. How does spending behaviour differ across age groups and city tiers?
+3. How does spending behavior differ across age groups and city tiers?
 4. What drives transaction failures and what is the operational cost?
 5. What is the risk profile of high value transactions?
 
@@ -22,7 +22,7 @@ UPI ecosystem. Built to solve real fintech business problems using
 - High value transactions carry 64% higher fraud rate than regular
 
 ## Tools & Technologies
-- Python 3.11 — data cleaning and visualisation
+- Python 3.11 — data cleaning and visualization
 - PostgreSQL — relational database and SQL analysis
 - Excel — interactive dashboard with pivot tables and slicers
 - Pandas, Matplotlib, Seaborn — data processing and charts
