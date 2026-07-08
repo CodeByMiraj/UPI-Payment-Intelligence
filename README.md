@@ -59,5 +59,6 @@ Miraj Rajendra Patil
 MCA in Data Science — MIT ADT University
 
 ## Connect
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
+
+- LinkedIn: [linkedin.com/in/miraj-p-a90a87294](https://www.linkedin.com/in/miraj-p-a90a87294/)
+- GitHub: [github.com/CodeByMiraj](https://github.com/CodeByMiraj)
