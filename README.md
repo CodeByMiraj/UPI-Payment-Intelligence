@@ -21,6 +21,10 @@ UPI ecosystem. Built to solve real fintech business problems using
 - Transaction failure rate is 9.08% — below industry benchmark
 - High value transactions carry 64% higher fraud rate than regular
 
+## Dashboard
+
+![UPI Payment Intelligence Dashboard](dashboard/dashboard_screenshot.png)
+
 ## Tools & Technologies
 - Python 3.11 — data cleaning and visualization
 - PostgreSQL — relational database and SQL analysis
