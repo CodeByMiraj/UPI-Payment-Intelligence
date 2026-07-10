@@ -64,5 +64,5 @@ MCA in Data Science — MIT ADT University
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/miraj-p-a90a87294](https://www.linkedin.com/in/miraj-p-a90a87294/)
+- LinkedIn: [linkedin.com/in/mirajpatil](https://linkedin.com/in/mirajpatil)
 - GitHub: [github.com/CodeByMiraj](https://github.com/CodeByMiraj)
